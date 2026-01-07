@@ -1,0 +1,21 @@
+# Python internals
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+.env
+venv/
+env/
+
+# Model files and checkpoints
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+checkpoint/
+checkpoints/
+runs/
+output/
